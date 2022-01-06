@@ -24,7 +24,7 @@ In order to use ngrok you must provide jsonServer.js a forwarding address. After
 
 The config.js file should contain:
 // Set up ngrok forwarding address
-const url = "http://345c-69-2-184-176.ngrok.io";
+const url = "<FIRST LISTED FORWARDING ADDRESS>";
 
 export default url;
 
